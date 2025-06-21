@@ -46,8 +46,8 @@
   ],
   "9": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/9/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/9/21.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/9/50.png"
+    "/home/lianniello/new_env_dataset/frames/train/gripper/9/24.png",
+    "/home/lianniello/new_env_dataset/frames/train/gripper/9/39.png"
   ],
   "10": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/10/10.png",
@@ -637,7 +637,7 @@
   "127": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/127/10.png",
     "/home/lianniello/new_env_dataset/frames/train/gripper/127/21.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/127/47.png"
+    "/home/lianniello/new_env_dataset/frames/train/gripper/127/32.png"
   ],
   "128": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/128/10.png",
@@ -1531,8 +1531,8 @@
   ],
   "306": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/306/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/306/23.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/306/66.png"
+    "/home/lianniello/new_env_dataset/frames/train/gripper/306/21.png",
+    "/home/lianniello/new_env_dataset/frames/train/gripper/306/35.png"
   ],
   "307": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/307/10.png",
@@ -1781,8 +1781,8 @@
   ],
   "356": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/356/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/356/21.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/356/51.png"
+    "/home/lianniello/new_env_dataset/frames/train/gripper/356/23.png",
+    "/home/lianniello/new_env_dataset/frames/train/gripper/356/38.png"
   ],
   "357": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/357/10.png",
@@ -2736,8 +2736,8 @@
   ],
   "547": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/547/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/547/21.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/547/46.png"
+    "/home/lianniello/new_env_dataset/frames/train/gripper/547/24.png",
+    "/home/lianniello/new_env_dataset/frames/train/gripper/547/38.png"
   ],
   "548": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/548/10.png",
@@ -2811,9 +2811,9 @@
   ],
   "562": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/562/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/562/21.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/562/46.png"
-  ],
+    "/home/lianniello/new_env_dataset/frames/train/gripper/562/23.png",
+    "/home/lianniello/new_env_dataset/frames/train/gripper/562/38.png"
+  ], 
   "563": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/563/10.png",
     "/home/lianniello/new_env_dataset/frames/train/gripper/563/21.png",
@@ -4606,8 +4606,8 @@
   ],
   "921": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/921/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/921/24.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/921/67.png"
+    "/home/lianniello/new_env_dataset/frames/train/gripper/921/20.png",
+    "/home/lianniello/new_env_dataset/frames/train/gripper/921/34.png"
   ],
   "922": [
     "/home/lianniello/new_env_dataset/frames/train/gripper/922/10.png",
@@ -5463,40 +5463,5 @@
     "/home/lianniello/new_env_dataset/frames/train/gripper/1092/10.png",
     "/home/lianniello/new_env_dataset/frames/train/gripper/1092/24.png",
     "/home/lianniello/new_env_dataset/frames/train/gripper/1092/38.png"
-  ],
-  "1093": [
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1093/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1093/20.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1093/34.png"
-  ],
-  "1094": [
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1094/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1094/23.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1094/38.png"
-  ],
-  "1095": [
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1095/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1095/24.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1095/38.png"
-  ],
-  "1096": [
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1096/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1096/23.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1096/38.png"
-  ],
-  "1097": [
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1097/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1097/21.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1097/35.png"
-  ],
-  "1098": [
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1098/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1098/21.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1098/32.png"
-  ],
-  "1099": [
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1099/10.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1099/24.png",
-    "/home/lianniello/new_env_dataset/frames/train/gripper/1099/39.png"
   ]
 }
